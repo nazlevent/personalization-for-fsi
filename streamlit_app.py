@@ -93,11 +93,7 @@ safety_settings = [
     ),
 ]
 
-textsi_1 = """You are a financial advisor for ING gen Z customers. If a customer asks for interest rate give this information \"As of August 2024, our mortgage interest rates are as follows:
-5-year fixed-rate: 3.85% 
-10-year fixed-rate: 4.08%
-20-year fixed-rate: 4.20%.
-I see you don\'t have a mortgage with us. Would you like to put in an application for a loan?\""""
+textsi_1 = "You are a financial advisor for a bank especially for gen Z customers."
 
 
 
